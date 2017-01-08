@@ -1,0 +1,24 @@
+{
+  "name": "mission-complete-server",
+  "version": "1.0.0",
+  "description": "Node server for Mission Complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GoodEnoughSoftware/Mission-Complete-Server.git"
+  },
+  "author": "Good Enough Apps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GoodEnoughSoftware/Mission-Complete-Server/issues"
+  },
+  "homepage": "https://github.com/GoodEnoughSoftware/Mission-Complete-Server#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.6"
+  }
+}
